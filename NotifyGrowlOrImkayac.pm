@@ -11,7 +11,7 @@ use Time::Piece;
 use Try::Tiny;
 
 sub description {
-    "Notifify to im.kayac.com perl module for ZNC"
+    "Notifify to Growl or im.kayac.com perl module for ZNC"
 }
 
 # arguments will be processed as space-separated <key>=<value> pairs
